@@ -10,6 +10,11 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+WordGameGit1 Project/*
+!WordGameGit1 Project/Assets
+WordGameGit1 Project/Assets/*
+!WordGameGit1 Project/Assets/Scripts
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
